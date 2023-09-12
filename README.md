@@ -2,7 +2,7 @@
 
 ## Description
 
-This page generate random passwords for users using a set of criteria that the user will be able to manipulate by answering several prompts.
+This page generates random passwords for users using a set of criteria that the user will be able to manipulate by answering several prompts.
 
 ## Acceptance Criteria
 
